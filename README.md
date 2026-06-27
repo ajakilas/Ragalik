@@ -1,5 +1,5 @@
 # Ragalik
-Ragalik it's a OpenSource turn-based roguelike game in python 
+turn-based roguelike game in python 
 
 <img src="res/icon.png" width="300" alt="Icon">
 
